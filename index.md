@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Simple AI!
 
 You can use the [editor on GitHub](https://github.com/tsvetiko/simple_ai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
